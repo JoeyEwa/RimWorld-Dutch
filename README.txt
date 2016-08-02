@@ -15,6 +15,7 @@ Official Translators:
 - Geertje123
 - SaKenyi
 - erenes
+- JoeyEwa
 - Gangleider
 - Sebasbongers
 - Ser-Geeves (inactive)
